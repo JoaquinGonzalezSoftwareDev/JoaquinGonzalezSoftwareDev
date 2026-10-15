@@ -19,12 +19,7 @@ When I'm not coding or studying, I enjoy:
 *   ⚽ Playing football
 *   🎮 Playing video games (especially CS2, Project Zomboid, and exploring game design)
 
-### GitHub Stats
-<!-- You can use these dynamic cards by replacing "YOUR_USERNAME" with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
 ### How to reach me
-*   **Email:** [your-email@example.com](mailto:your-email@example.com)
-*   **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile) 
+*   **Email:** [tejerojoaquin852@gmail.com](mailto:tejerojoaquin852@gmail.com)
+*   **LinkedIn:** [Joaquin Gonzalez](https://www.linkedin.com/in/joaquin-gonzalez-389836333?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
